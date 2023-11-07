@@ -4,19 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arrow!🏹🏹;" />
 </h1>
 
-<h3 align="center">A Cybersecurity enthusiast/Master's student at Carnegie Mellon University </h3>
+<h3 align="center">Aspiring Cybersecurity Expert & Master's Candidate in Information Security, Carnegie Mellon University</h3>
 
 <br/>
 
 <div align="center">
+ 👨🏻‍🎓 Master of Science in Information Technology - Information Security (Applied Option), CYFIR - Cyber Forensics & Incident Response Track
+
+ 🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
  
- 🔭 Domains of interest include - **Threat Intelligence, Incident Response & Digital Forensics**
- 
- 🌱 I’m currently working with **SCION Association - Industry sponsored Practicum project at Carnegie Mellon University**
+ 🌱 I’m currently working with **SCION Association - Industry sponsored Practicum project at Carnegie Mellon University SV, NASA AMES RESEARCH CENTER **
 
  💬 Contact me here - asujith@andrew.cmu.edu
 
- ⚡ Fun facts - **Former Indian national archery player, martial arts enthusiast &  mad about traveling!!**
+ ⚡ Fun facts - **Former Indian national archery player & travel bug !!**
  
  </div>
  
