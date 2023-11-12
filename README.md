@@ -13,7 +13,7 @@
 
 🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
  
- 🌱 I’m currently working with SCION Association - Industry sponsored Practicum project at Carnegie Mellon University SV, NASA AMES RESEARCH CENTER 
+ 🌱 Currently working with SCION Association - Industry sponsored Practicum project at Carnegie Mellon University SV, NASA AMES RESEARCH CENTER 
 
  💬 Contact me here - asujith@andrew.cmu.edu
 
