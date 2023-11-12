@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arrow!🏹🏹;" />
 </h1>
 
-<h3 align="center">Aspiring Cybersecurity Expert & Master's Candidate in Information Security, Carnegie Mellon University</h3>
+<h3 align="center">Aspiring Threat Intel Researcher & Master's Candidate in Information Security, Carnegie Mellon University</h3>
 
 <br/>
 
