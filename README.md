@@ -10,8 +10,7 @@
 
 <div align="center">
  👨🏻‍🎓 Master of Science in Information Technology - Information Security (Applied Option), CYFIR - Cyber Forensics & Incident Response
-
- 🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
+🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
  
  🌱 I’m currently working with SCION Association - Industry sponsored Practicum project at Carnegie Mellon University SV, NASA AMES RESEARCH CENTER 
 
