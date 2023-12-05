@@ -1,23 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tovorek.Tovorek" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arrow!🏹🏹;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tovorek!🏹🏹;" />
 </h1>
 
-<h3 align="center">Aspiring Threat Intel Researcher & Master's Candidate in Information Security, CMU </h3>
+<h3 align="center">Welcome to my Github Page, This is a space where I share my interest in security with like-minded peers. Weekly updates, breach reports, threat Intel learning modules are being added to this page. Feel free to contribute to public repos!!! </h3>
 
 <br/>
 
 <div align="center">
- 👨🏻‍🎓 Master of Science in Information Technology - Information Security (Applied Option), CYFIR - Cyber Forensics & Incident Response
+
+<h3>About Me!!</h3>
+
+
+ 👨🏻‍🎓 Master of Science in Information Technology - Information Security (Applied Option)
 
 🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
  
- 🌱 Currently working with SCION Association - Industry sponsored Practicum project at Carnegie Mellon University SV, NASA AMES RESEARCH CENTER 
+ 🌱 Currently working with SCION Association (Sponsored by ETH Zurich) - Industry sponsored Practicum project at Carnegie Mellon University SV, NASA AMES RESEARCH CENTER 
 
- 💬 Contact me here - asujith@andrew.cmu.edu
-
- ⚡ Fun facts - **Former Indian national archery player & travel bug !!**
  
  </div>
  
