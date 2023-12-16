@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tovorek.Tovorek" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tovorek!🏹🏹;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arrow!🏹🏹;" />
 </h1>
 
 <h3 align="center">Welcome to my Github Page!!!</h3>
@@ -10,19 +10,19 @@
 
 <div align="left">
 
-<h3>About Me!!</h3>
+<h3>About Me 🤖</h3>
 
- 👨🏻‍🎓 Master of Science in Information Technology - Information Security, Carnegie Mellon University
+🎓 Master of Science in Information Technology - Information Security, Carnegie Mellon University
 
 🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
  
- 🌱 Nurturing a cybersecurity Threat Intel Repo!
+ 🌱 Nurturing a cybersecurity Threat Intel, weekly update & security learning material repo!
 
  
  </div>
  
 <div align="center"> 
-  <a href="mailto:asujith@andrew.cmu.edu">
+  <a href="mailto:aaromalsujith01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/aaromalsujith" target="_blank">
