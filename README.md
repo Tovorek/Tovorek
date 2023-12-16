@@ -4,20 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tovorek!🏹🏹;" />
 </h1>
 
-<h3 align="center">Welcome to my Github Page, This is a space where I share my interest in security with like-minded peers. Weekly updates, breach reports, threat Intel learning modules are being added to this page. Feel free to contribute to public repos!!! </h3>
+<h3 align="center">Welcome to my Github Page!!!</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <h3>About Me!!</h3>
 
-
- 👨🏻‍🎓 Master of Science in Information Technology - Information Security (Applied Option)
+ 👨🏻‍🎓 Master of Science in Information Technology - Information Security, Carnegie Mellon University
 
 🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
  
- 🌱 Currently working with SCION Association (Sponsored by ETH Zurich) - Industry sponsored Practicum project at Carnegie Mellon University SV, NASA AMES RESEARCH CENTER 
+ 🌱 Nurturing a cybersecurity Threat Intel Repo!
 
  
  </div>
