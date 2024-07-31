@@ -12,11 +12,11 @@
 
 <h3>About Me 🤖</h3>
 
-🎓 Master of Science in Information Technology - Information Security, Carnegie Mellon University
+🎓 Master of Science in Information Security, Carnegie Mellon University
 
 🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
  
- 🌱 Nurturing a cybersecurity Threat Intel, weekly update & security learning material repo!
+ 🌱 Security Researcher!
 
  
  </div>
