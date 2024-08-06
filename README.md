@@ -14,11 +14,13 @@
 
 🎓 Master of Science in Information Security, Carnegie Mellon University
 
-🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics.
- 
- 🌱 Security Researcher!
+🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics
 
+🎯 Top 1% in Tryhackme, 365 days Streak
  
+ 🌱 Security Researcher, Engineer & Trainer!
+
+
  </div>
  
 <div align="center"> 
