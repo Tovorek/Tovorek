@@ -66,6 +66,20 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tovorek&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+## Time stats
+📊 Work breakdown
+<!--START_SECTION:waka-->
+
+```txt
+
+**** Ongoing Updation here****
+
+```
+
+<!--END_SECTION:waka-->
+
+
+
 <br/><br/>
 <hr/>
 
