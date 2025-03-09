@@ -10,15 +10,6 @@
 
 <div align="left">
 
-<h3>About Me 🤖</h3>
-
-🎓 Master of Science in Information Security, Carnegie Mellon University
-
-🔭 Specializing in Threat Intelligence, Incident Response, and Digital Forensics
-
-🎯 Top 1% in Tryhackme, 365 days Streak
- 
- 🌱 Security Researcher, Engineer & Trainer!
 
 
  </div>
