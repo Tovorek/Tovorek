@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tovorek.Tovorek" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weiss!🏹🏹;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tovorek!🏹🏹;" />
 </h1>
 
 <h3 align="center">Welcome to my Github Page!!!</h3>
@@ -9,6 +9,10 @@
 <br/>
 
 <div align="left">
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Tovorek.png" alt="Your Image Badge" />
+</p>
 
 
 
@@ -30,10 +34,12 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,bash,vscode,github,discord,gcp,linux,regex,git" />
+    <img src="https://skillicons.dev/icons?i=azure,bash,vscode,github,discord,gcp,linux,regex,git,typescript,angular" />
     <img src="https://skillicons.dev/icons?i=python,solidity,rust,html,css,js,mysql,powershell" /><br>
 </div>
+
 
 <br/>
 <hr/>
